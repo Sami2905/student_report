@@ -1,0 +1,9 @@
+[package]
+name = "student_report"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+genpdf = "0.2.0"
